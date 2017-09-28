@@ -1,3 +1,4 @@
 Sentence 1 file 2
 Sentence 2 file 2
 Sentence 3 file 2
+Sentence 4 file 2
